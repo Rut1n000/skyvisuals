@@ -28,4 +28,3 @@ jobs:
         with:
           name: skyvisuals-jar
           path: build/libs/*.jar
-          
